@@ -383,7 +383,7 @@ The API will return three error types when requests fail:
 }
 ```
 
-### Play quiz
+#### POST /quizzes
 
 - General:
   - Returns a random question which not in the previous questions list but in the chosen category.
